@@ -11,6 +11,7 @@ call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
+Plugin 'altercation/solarized'
 Plugin 'edkolev/tmuxline.vim'
 Plugin 'chrisbra/csv.vim'
 Plugin 'majutsushi/tagbar'
