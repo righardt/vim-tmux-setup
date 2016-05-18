@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/usr/local/share/supervisor'
+let g:netrw_dirhist_2='/Users/righardt.swanepoel/Documents/Spree Tickets/SPRI-1271'
+let g:netrw_dirhist_3='/private/var/www/spree.dev/htdocs'
+let g:netrw_dirhist_4='/Users/righardt.swanepoel/Downloads/take down CSV'
+let g:netrw_dirhist_5='/private/var/www/checkout/conf'
+let g:netrw_dirhist_6='/usr/local/share/supervisor/conf.d'
+let g:netrw_dirhist_7='/usr/local/etc/nginx/sites-enabled'
+let g:netrw_dirhist_8='/Users/righardt.swanepoel/.vim'
